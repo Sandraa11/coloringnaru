@@ -10,17 +10,13 @@
 	"unityTest": false,
         "unityGameID": "4378909",
         "unityBanner": "Banner_Android",
-      
-	    
-	    
-	    
-	    "unityInter": "Interstitial_Android",
+      	"unityInter": "Interstitial_Android",
         "intersitial_click_activites": 1,
-		"intersitial_click_list": 3
+	"intersitial_click_list": 3
 
-	    public static String applovinBnr = "";
-    public static String applovinInter = "";
-    public static String applovinNative = "";
+        "max_banner": "",
+        "max_inter": "",
+        "max_native": "",
 
     }
 }
