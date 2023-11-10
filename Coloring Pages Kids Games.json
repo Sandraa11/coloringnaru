@@ -7,12 +7,20 @@
         "admob_banner": "ca-app-pub-7530677063000013/6601582734",
         "admob_inter": "ca-app-pub-7530677063000013/1079176205",
         "admob_native": "ca-app-pub-7530677063000013/9284341618",
-		"unityTest": false,
+	"unityTest": false,
         "unityGameID": "4378909",
         "unityBanner": "Banner_Android",
-        "unityInter": "Interstitial_Android",
+      
+	    
+	    
+	    
+	    "unityInter": "Interstitial_Android",
         "intersitial_click_activites": 1,
 		"intersitial_click_list": 3
+
+	    public static String applovinBnr = "";
+    public static String applovinInter = "";
+    public static String applovinNative = "";
 
     }
 }
