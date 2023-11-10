@@ -12,7 +12,7 @@
         "unityBanner": "Banner_Android",
       	"unityInter": "Interstitial_Android",
         "intersitial_click_activites": 1,
-	"intersitial_click_list": 3
+	"intersitial_click_list": 3,
 
         "max_banner": "",
         "max_inter": "",
